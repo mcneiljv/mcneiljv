@@ -1,4 +1,4 @@
-<h2>Hello 👋, I'm Jamie! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hello 👋, I'm Jamie! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl0bmF6bW96bzd3OWtvZWNjZTlkanRueG5ya2ptcWNxdXhxbmY2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NVBR6cLvUjV9C/giphy.gif" width="40"></h2>
 <img align='right' src="https://raw.githubusercontent.com/mcneiljv/mcneiljv/refs/heads/main/assets/images/jamie-synthwave.webp" width="280">
 <p><em>Software Engineer II / Engineering Lead at <a href="https://hoylu.com/">Hoylu</a>
 </em></p>
