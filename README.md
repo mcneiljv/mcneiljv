@@ -1,5 +1,5 @@
-<h2>Hello 👋, I'm Jamie McNeil! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h2>Hello 👋, I'm Jamie! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://raw.githubusercontent.com/mcneiljv/mcneiljv/refs/heads/main/assets/images/jamie-synthwave.webp" width="280">
 <p><em>Software Engineer II / Engineering Lead at <a href="https://hoylu.com/">Hoylu</a>
 </em></p>
 
