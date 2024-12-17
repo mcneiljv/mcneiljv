@@ -8,6 +8,11 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.jamievmcneil.io)](https://www.jamievmcneil.io)
 ![](https://visitor-badge.glitch.me/badge?page_id=jamievmcneil.jamievmcneil)
 
+### 🧑‍💻 Check out my Virtual Business Card
+```bash
+npx jamiemcneil
+```
+
 ### 📫 Want to chat?
 
 Pick a slot if you'd like to meet me and chat about anything tech-related, team leadership, or building great products!
