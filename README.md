@@ -1,6 +1,6 @@
 <h2>Hello 👋, I'm Jamie! <img src="https://64.media.tumblr.com/d8c347cf3e03580d0cf07b9f87cc0147/tumblr_mirqjfhcBM1rfjowdo1_640.gif" width="40"></h2>
 <img align='right' src="https://raw.githubusercontent.com/mcneiljv/mcneiljv/refs/heads/main/assets/images/jamie-synthwave.webp" width="280">
-<p><em>Lead Software Engineer at <a href="https://hoylu.com/">Hoylu</a>
+<p><em>Software Engineer for <a href="https://home.meetmarlo.com/">MARLÖ</a>
 </em></p>
 
 [![Linkedin: Jamie McNeil](https://img.shields.io/badge/-Jamie%20McNeil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jamiemcneil/)](https://www.linkedin.com/in/jamiemcneil/)
